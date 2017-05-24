@@ -68,10 +68,10 @@ ____
 - marchés financiers
 * dirigent politique économique
 ** 2010: jugement d'insoutenabilité de certaines dettes souveraines
-** imposent
-*** vision
-*** temporalité
-*** austérité
+* imposent
+** vision
+** temporalité
+** austérité
 * entrée des agences de notation
 ** épiphénomène
 ** porte-parole finance
@@ -81,9 +81,33 @@ ____
 - destination politiques publiques
 * ↗ mondialisation
 * ↗ tensions
-
+* menace corps société publique
 
 ==== Le modèle européen des règles, entre contresens économique, et barbarisme politique
+
+[quote, Frédéric Lordon, La malfaçon]
+____
+Bien plutôt la spécificité du néolibéralisme réside-t-elle dans la positivité et la productivité de ses dispositifs institutionnels, et dans l'extension de leur pouvoir normalisateur.
+____
+
+[quote, Frédéric Lordon, La malfaçon]
+____
+c'est la souveraineté _en son principe_ dont il s'agissait de se débarrasser, la disparition de tout pôle de puissance publique étant bien faite pour laisser le champ libre aux puissances privées du capital.
+____
+
+- contruction européenne
+* disparition concept souveraineté
+* mondialisation financière
+* politique économique soumise aux règles
+* laboratoire néolibéral
+** enseignement
+** recherche
+** conccurence
+** politique économique
+* «gouvernance» remplace «gouvernement souverain»
+- ordolibéralisme → juridicisation
+* fin de la souverainneté
+- néolibéralisation → normalisation par les règles
 
 ==== Anti-politique européenne
 
