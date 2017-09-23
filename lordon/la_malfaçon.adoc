@@ -95,6 +95,27 @@ ____
 c'est la souveraineté _en son principe_ dont il s'agissait de se débarrasser, la disparition de tout pôle de puissance publique étant bien faite pour laisser le champ libre aux puissances privées du capital.
 ____
 
+
+[quote, Frédéric Lordon, La malfaçon]
+____
+les seuils de déficit et de dette y ont inévitablement joué comme des points de fixation, et leur franchissement ne pouvait que revêtir la teneur d’un événement majeur, chaque échec à revenir « dans les clous » ne faisant qu’ancrer un peu plus profondément le fétichisme des valeurs-consignes et donner un tour un peu plus dramatique à des trajectoires macroéconomiques qui auraient pu autrement être perçues comme de simples désajustements temporaires, en tant que tels parfaitement tolérables.
+____
+
+[quote, Frédéric Lordon, La malfaçon]
+____
+Or, que le peuple souverain puisse décider et réviser à sa guise, c’est ce que les puissances qui dominent la construction européenne ne veulent plus, à aucun prix
+____
+
+[quote, Jean-Claude Trichet, 2008]
+____
+[à propos de la légitimité de l'indépendance de la BCE]
+
+Nous avons un mandat qui nous a été donné par les démocraties européennes.
+
+(Confère #1992#: Traité de Maastricht — #oui#) +
+(Confère #2005#: Traité Constitutionnel Européen — #non#)
+____
+
 - contruction européenne
 * disparition concept souveraineté
 * mondialisation financière
@@ -107,9 +128,33 @@ ____
 * «gouvernance» remplace «gouvernement souverain»
 - ordolibéralisme → juridicisation
 * fin de la souverainneté
-- néolibéralisation → normalisation par les règles
+- néolibéralisation → normalisation par règles
+* équilibre budgétaire
+* lutte contre inflation
+* valeurs limites
+** polarisent opinion collective
+** effet de seuil -> réactions violentes
+** fin souveraineté populaire
+** fin de la puissance publique 
+*** nationnale & européenne
 
 ==== Anti-politique européenne
+[quote, Frédéric Lordon, La mafaçon]
+____
+L’Union européenne n’a pas de politique « conjoncturelle », c’est-à-dire dont les orientations sont déterminées par les partis « conjoncturellement » au pouvoir, car toute la politique économique européenne a été irrévocablement fixée dans des textes à valeur quasi constitutionnelle.
+____
+
+[quote, Frédéric Lordon, La malfaçon]
+____
+l’Europe n’est pas conjoncturellement de droite, elle l’est bel et bien constitutionnellement .
+____
+
+- pilote automatique
+- continuité politique -> austérité
+* Nicolas Sarkosy
+* François Hollande
+
+
 
 === 2. D'une impasse l'autre
 
